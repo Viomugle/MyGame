@@ -1,0 +1,29 @@
+﻿  MyGame.cpp
+D:\Proj\OpenGL\MyCarGame\MyGame\include\learnopengl\mesh.h(93,50): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+D:\Proj\OpenGL\MyCarGame\MyGame\MyGame.cpp(401,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Proj\OpenGL\MyCarGame\MyGame\MyGame.cpp(408,16): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Proj\OpenGL\MyCarGame\MyGame\MyGame.cpp(409,22): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+D:\Proj\OpenGL\MyCarGame\MyGame\MyGame.cpp(409,22): warning C4244:         with
+D:\Proj\OpenGL\MyCarGame\MyGame\MyGame.cpp(409,22): warning C4244:         [
+D:\Proj\OpenGL\MyCarGame\MyGame\MyGame.cpp(409,22): warning C4244:             T=float
+D:\Proj\OpenGL\MyCarGame\MyGame\MyGame.cpp(409,22): warning C4244:         ]
+D:\Proj\OpenGL\MyCarGame\MyGame\MyGame.cpp(410,23): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+D:\Proj\OpenGL\MyCarGame\MyGame\MyGame.cpp(410,23): warning C4244:         with
+D:\Proj\OpenGL\MyCarGame\MyGame\MyGame.cpp(410,23): warning C4244:         [
+D:\Proj\OpenGL\MyCarGame\MyGame\MyGame.cpp(410,23): warning C4244:             T=float
+D:\Proj\OpenGL\MyCarGame\MyGame\MyGame.cpp(410,23): warning C4244:         ]
+D:\Proj\OpenGL\MyCarGame\MyGame\MyGame.cpp(411,22): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+D:\Proj\OpenGL\MyCarGame\MyGame\MyGame.cpp(411,22): warning C4244:         with
+D:\Proj\OpenGL\MyCarGame\MyGame\MyGame.cpp(411,22): warning C4244:         [
+D:\Proj\OpenGL\MyCarGame\MyGame\MyGame.cpp(411,22): warning C4244:             T=float
+D:\Proj\OpenGL\MyCarGame\MyGame\MyGame.cpp(411,22): warning C4244:         ]
+D:\Proj\OpenGL\MyCarGame\MyGame\MyGame.cpp(641,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Proj\OpenGL\MyCarGame\MyGame\MyGame.cpp(642,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Proj\OpenGL\MyCarGame\MyGame\MyGame.cpp(646,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Proj\OpenGL\MyCarGame\MyGame\MyGame.cpp(647,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Proj\OpenGL\MyCarGame\MyGame\MyGame.cpp(649,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Proj\OpenGL\MyCarGame\MyGame\MyGame.cpp(650,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Proj\OpenGL\MyCarGame\MyGame\MyGame.cpp(659,31): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  MyGame.vcxproj -> D:\Proj\OpenGL\MyCarGame\MyGame\x64\Debug\MyGame.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
